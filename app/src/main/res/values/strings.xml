@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoGagaDemo</string>
+    <string name="feeds">Feeds</string>
+    <string name="chat">Chats</string>
+    <string name="alert">Alert</string>
+    <string name="profile">Profile</string>
+</resources>
